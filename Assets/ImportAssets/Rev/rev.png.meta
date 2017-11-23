@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 8907fa074029b8a4c93bd00440b07b26
+timeCreated: 1506693592
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rev_0
+    21300002: rev_1
+    21300004: rev_2
+    21300006: rev_3
+    21300008: rev_4
+    21300010: rev_5
+    21300012: rev_6
+    21300014: rev_7
+    21300016: rev_8
+    21300018: rev_9
+    21300020: rev_10
+    21300022: rev_11
+    21300024: rev_12
+    21300026: rev_13
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rev_0
+      rect:
+        serializedVersion: 2
+        x: 16.02003
+        y: 904.2267
+        width: 723.8724
+        height: 288.08472
+      alignment: 9
+      pivot: {x: 0.48417372, y: 0.5216289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292.4192
+        width: 204.12494
+        height: 599.6057
+      alignment: 9
+      pivot: {x: 0.48499706, y: 0.5037991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_2
+      rect:
+        serializedVersion: 2
+        x: 217.80371
+        y: 607.59357
+        width: 118.225586
+        height: 300.9002
+      alignment: 9
+      pivot: {x: 0.48801863, y: 0.4998549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_3
+      rect:
+        serializedVersion: 2
+        x: 221.56609
+        y: 250.9515
+        width: 124.869095
+        height: 360.85855
+      alignment: 9
+      pivot: {x: 0.49599075, y: 0.49478805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_4
+      rect:
+        serializedVersion: 2
+        x: 384.82892
+        y: 621
+        width: 107.59027
+        height: 281.06445
+      alignment: 9
+      pivot: {x: 0.48025796, y: 0.5016643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_5
+      rect:
+        serializedVersion: 2
+        x: 353.60605
+        y: 256
+        width: 139.4083
+        height: 305.16687
+      alignment: 9
+      pivot: {x: 0.50853467, y: 0.50136507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_6
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 720.529
+        width: 71
+        height: 177.47101
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.49569228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 718.9
+        width: 138
+        height: 176.20001
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.49716213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_8
+      rect:
+        serializedVersion: 2
+        x: 517.9909
+        y: 447.82022
+        width: 80.512146
+        height: 209.35147
+      alignment: 9
+      pivot: {x: 0.54040414, y: 0.490466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_9
+      rect:
+        serializedVersion: 2
+        x: 629.43994
+        y: 450.9159
+        width: 94.06
+        height: 199.0841
+      alignment: 9
+      pivot: {x: 0.48968807, y: 0.51276875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_10
+      rect:
+        serializedVersion: 2
+        x: 784.00006
+        y: 475
+        width: 96
+        height: 133
+      alignment: 9
+      pivot: {x: 0.47916603, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_11
+      rect:
+        serializedVersion: 2
+        x: 625.1
+        y: 375.50003
+        width: 85.900024
+        height: 41.799988
+      alignment: 9
+      pivot: {x: 0.5052388, y: 0.5382769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 382.6
+        width: 66.60004
+        height: 33.399994
+      alignment: 9
+      pivot: {x: 0.51801777, y: 0.520958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rev_13
+      rect:
+        serializedVersion: 2
+        x: 781.83923
+        y: 647.3294
+        width: 358.96472
+        height: 552.6706
+      alignment: 9
+      pivot: {x: 0.48378226, y: 0.5051302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98742670912013
+  assetBundleName: 
+  assetBundleVariant: 

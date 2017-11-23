@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: f617a6092c0bca14aa1151725c1aac19
+timeCreated: 1494002241
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: body
+    21300002: sword
+    21300004: leftleg
+    21300006: leftthigh
+    21300008: mant
+    21300010: rightthigh
+    21300012: rightleg
+    21300014: head
+    21300016: leftarm
+    21300018: rightarm
+    21300020: rightelbow
+    21300022: leftelbow
+    21300024: leftfoot
+    21300026: rightfoot
+    21300028: lefthand
+    21300030: righthand
+    21300032: crotch
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 50.43103
+        y: 2157.4631
+        width: 1266
+        height: 1938.5369
+      alignment: 9
+      pivot: {x: 0.48149207, y: 0.4944641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2859
+        width: 2040
+        height: 1237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5004042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftleg
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 3335.75
+        width: 540
+        height: 760.25
+      alignment: 9
+      pivot: {x: 0.5425926, y: 0.4159816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftthigh
+      rect:
+        serializedVersion: 2
+        x: 3625.03
+        y: 2337.538
+        width: 369.552
+        height: 855.82007
+      alignment: 9
+      pivot: {x: 0.5005249, y: 0.49947637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mant
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1525
+        width: 1530
+        height: 1298
+      alignment: 9
+      pivot: {x: 0.4986928, y: 0.4992296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightthigh
+      rect:
+        serializedVersion: 2
+        x: 2913.8218
+        y: 1943
+        width: 733.427
+        height: 878
+      alignment: 9
+      pivot: {x: 0.47745475, y: 0.5034169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightleg
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1361
+        width: 294.87866
+        height: 983.1963
+      alignment: 9
+      pivot: {x: 0.49511892, y: 0.48515233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1510.9261
+        width: 520.0012
+        height: 589.07385
+      alignment: 9
+      pivot: {x: 0.47692195, y: 0.49921387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftarm
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1533
+        width: 396
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5017668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightarm
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1529.8716
+        width: 282.97644
+        height: 583.5913
+      alignment: 9
+      pivot: {x: 0.45586833, y: 0.48343492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightelbow
+      rect:
+        serializedVersion: 2
+        x: 534.06287
+        y: 1168.116
+        width: 410
+        height: 326
+      alignment: 9
+      pivot: {x: 0.49740764, y: 0.4965768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftelbow
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1458.8999
+        width: 248
+        height: 456.1001
+      alignment: 9
+      pivot: {x: 0.49596772, y: 0.51764977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftfoot
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1131.8359
+        width: 397.552
+        height: 349.16406
+      alignment: 9
+      pivot: {x: 0.46283254, y: 0.54462665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightfoot
+      rect:
+        serializedVersion: 2
+        x: 1366.4302
+        y: 1209.5231
+        width: 392.99597
+        height: 285.65173
+      alignment: 9
+      pivot: {x: 0.49509367, y: 0.54078764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lefthand
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1259.6183
+        width: 184.00012
+        height: 237.43652
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.4985826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: righthand
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1293
+        width: 194
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5103093, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crotch
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1512
+        width: 359.8479
+        height: 416.31018
+      alignment: 9
+      pivot: {x: 0.48631656, y: 0.49001923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97910929388386
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - CutIn
+  - DefaultPos
+  - PlayerGround
+  - Fire
+  - Enemy
+  - Unit
+  - StageBG
+  - Score
+  - System
+  - EnemyDamage
+  - UnitDamage
+  - CharacterDamage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: StageBG
+    uniqueID: 3807056509
+    locked: 0
+  - name: Effect_Back
+    uniqueID: 1277045069
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stage
+    uniqueID: 2477199071
+    locked: 0
+  - name: Effect
+    uniqueID: 4171172767
+    locked: 0
+  - name: UI
+    uniqueID: 3167111615
+    locked: 0
+  - name: New Layer
+    uniqueID: 2749617419
+    locked: 0
+  - name: New Layer
+    uniqueID: 2477840015
+    locked: 0
+  - name: New Layer
+    uniqueID: 3596403477
+    locked: 0
+  - name: New Layer
+    uniqueID: 726463065
+    locked: 0
+  - name: New Layer
+    uniqueID: 1493423215
+    locked: 0
+  - name: New Layer
+    uniqueID: 51253361
+    locked: 0

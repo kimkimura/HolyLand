@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: dc188bcf4852e1644929b19721954b7e
+timeCreated: 1500696497
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ReinaTexture_0
+    21300002: ReinaTexture_1
+    21300004: ReinaTexture_2
+    21300006: ReinaTexture_3
+    21300008: ReinaTexture_4
+    21300010: ReinaTexture_5
+    21300012: ReinaTexture_6
+    21300014: ReinaTexture_7
+    21300016: ReinaTexture_8
+    21300018: ReinaTexture_9
+    21300020: ReinaTexture_10
+    21300022: ReinaTexture_11
+    21300024: ReinaTexture_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReinaTexture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898.8956
+        width: 490.76892
+        height: 601.1044
+      alignment: 9
+      pivot: {x: 0.48189685, y: 0.50507766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1014.7359
+        width: 356.28485
+        height: 485.2641
+      alignment: 9
+      pivot: {x: 0.50942385, y: 0.46833074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_2
+      rect:
+        serializedVersion: 2
+        x: 831.2712
+        y: 884.18225
+        width: 379.2165
+        height: 613.02234
+      alignment: 9
+      pivot: {x: 0.50295496, y: 0.51110333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.74283
+        width: 460.4609
+        height: 639.63574
+      alignment: 9
+      pivot: {x: 0.48646906, y: 0.50303185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 503.00003
+        width: 194.00006
+        height: 274.3458
+      alignment: 9
+      pivot: {x: 0.49742252, y: 0.5103048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_5
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 538.12573
+        width: 209.1853
+        height: 234.6225
+      alignment: 9
+      pivot: {x: 0.4947766, y: 0.51518613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 342.2549
+        width: 174.33673
+        height: 110.82672
+      alignment: 9
+      pivot: {x: 0.48469418, y: 0.4759239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 308.1989
+        width: 115.498535
+        height: 223.80109
+      alignment: 9
+      pivot: {x: 0.4978418, y: 0.49732146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_8
+      rect:
+        serializedVersion: 2
+        x: 853.6942
+        y: 323
+        width: 130.89752
+        height: 237.87994
+      alignment: 9
+      pivot: {x: 0.49508795, y: 0.48974282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_9
+      rect:
+        serializedVersion: 2
+        x: 836.6445
+        y: 590.72394
+        width: 106.78082
+        height: 289.18646
+      alignment: 9
+      pivot: {x: 0.50435585, y: 0.49544525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_10
+      rect:
+        serializedVersion: 2
+        x: 986.4121
+        y: 400.60257
+        width: 179.01599
+        height: 464.0842
+      alignment: 9
+      pivot: {x: 0.49486023, y: 0.5007657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_11
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 404
+        width: 129.83704
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5006276, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReinaTexture_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.0000005
+        width: 899
+        height: 276
+      alignment: 9
+      pivot: {x: 0.49888763, y: 0.5018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98349645465618
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 7a9fcefbfb5cfaa40ab286fc41ec8237
+timeCreated: 1497336436
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MariaTexture_2_0
+    21300002: MariaTexture_2_1
+    21300004: MariaTexture_2_2
+    21300006: MariaTexture_2_3
+    21300008: MariaTexture_2_4
+    21300010: MariaTexture_2_5
+    21300012: MariaTexture_2_6
+    21300014: MariaTexture_2_7
+    21300016: MariaTexture_2_8
+    21300018: MariaTexture_2_9
+    21300020: MariaTexture_2_10
+    21300022: MariaTexture_2_11
+    21300024: MariaTexture_2_12
+    21300026: MariaTexture_2_13
+    21300028: MariaTexture_2_14
+    21300030: MariaTexture_2_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 1
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 4
+    mipMapFadeDistanceEnd: 9
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MariaTexture_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3189.4304
+        width: 1337.9286
+        height: 1710.5696
+      alignment: 9
+      pivot: {x: 0.49703693, y: 0.5010434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_1
+      rect:
+        serializedVersion: 2
+        x: 1324.9493
+        y: 4184.8354
+        width: 479.0504
+        height: 646.56836
+      alignment: 9
+      pivot: {x: 0.5146651, y: 0.5199211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_2
+      rect:
+        serializedVersion: 2
+        x: 1883.8969
+        y: 4346.597
+        width: 261.27698
+        height: 483.73047
+      alignment: 9
+      pivot: {x: 0.48455578, y: 0.5486585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_3
+      rect:
+        serializedVersion: 2
+        x: 2185.1794
+        y: 4465.9634
+        width: 375.01172
+        height: 287.53906
+      alignment: 9
+      pivot: {x: 0.5061723, y: 0.5635291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_4
+      rect:
+        serializedVersion: 2
+        x: 2613.3933
+        y: 4515.7383
+        width: 199.96606
+        height: 187.05078
+      alignment: 9
+      pivot: {x: 0.49811918, y: 0.53601336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_5
+      rect:
+        serializedVersion: 2
+        x: 2596.1191
+        y: 3373.572
+        width: 337.1643
+        height: 995.96313
+      alignment: 9
+      pivot: {x: 0.49643704, y: 0.49844015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_6
+      rect:
+        serializedVersion: 2
+        x: 1581.975
+        y: 3502.276
+        width: 763.83093
+        height: 696.959
+      alignment: 9
+      pivot: {x: 0.50865334, y: 0.49604657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_7
+      rect:
+        serializedVersion: 2
+        x: 2045.0493
+        y: 2421.696
+        width: 520.21704
+        height: 1069.188
+      alignment: 9
+      pivot: {x: 0.50258, y: 0.49879342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_8
+      rect:
+        serializedVersion: 2
+        x: 1509.0316
+        y: 2393.1309
+        width: 438.36743
+        height: 1041.1248
+      alignment: 9
+      pivot: {x: 0.51091474, y: 0.51902413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_9
+      rect:
+        serializedVersion: 2
+        x: 2667.1104
+        y: 1816.9158
+        width: 144.0144
+        height: 318.64258
+      alignment: 9
+      pivot: {x: 0.47140533, y: 0.48356408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_10
+      rect:
+        serializedVersion: 2
+        x: 2373.6892
+        y: 1938.7437
+        width: 181.31299
+        height: 196.6211
+      alignment: 9
+      pivot: {x: 0.47603205, y: 0.5556695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_11
+      rect:
+        serializedVersion: 2
+        x: 2101.136
+        y: 1746.1047
+        width: 191.87671
+        height: 459.90552
+      alignment: 9
+      pivot: {x: 0.50482297, y: 0.49878782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_12
+      rect:
+        serializedVersion: 2
+        x: 1599.3971
+        y: 1742.7295
+        width: 349.82227
+        height: 548.4507
+      alignment: 9
+      pivot: {x: 0.49768928, y: 0.4946124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_13
+      rect:
+        serializedVersion: 2
+        x: 49.827938
+        y: 1650.4712
+        width: 1347.751
+        height: 1501.0488
+      alignment: 9
+      pivot: {x: 0.49094534, y: 0.5016683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1341.4156
+        width: 2065.4717
+        height: 299.50195
+      alignment: 9
+      pivot: {x: 0.5023066, y: 0.462716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MariaTexture_2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188.51427
+        width: 1451.7445
+        height: 1079.722
+      alignment: 9
+      pivot: {x: 0.5124868, y: 0.48992768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: Maria
+  userData: 98046310350848
+  assetBundleName: 
+  assetBundleVariant: 

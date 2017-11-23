@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3bcac769e55c2747af8227e39f2f3bd, type: 3}
+  m_Name: MasterData
+  m_EditorClassIdentifier: 
+  characterData:
+  - CharacterName: "\u4E3B\u4EBA\u516C"
+    CharacterID: 1
+    MotionType: 0
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1275011611179934, guid: d20c09035b7c589439edcd418c79634d, type: 2}
+    skills:
+    - {fileID: 1816137697955418, guid: 664f20845f507e946ae02e861f747984, type: 2}
+    CutInIllust: {fileID: 21300000, guid: 79016014a68365240ab6c16a80244515, type: 3}
+    IconImage: {fileID: 21300000, guid: 79016014a68365240ab6c16a80244515, type: 3}
+    StatusData:
+      HP: 5000
+      ATK: 500
+      DEF: 500
+  - CharacterName: "\u30DE\u30EA\u30A2"
+    CharacterID: 2
+    MotionType: 0
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1759057658170598, guid: 91482455e0e6ed141a5f01035f124076, type: 2}
+    skills:
+    - {fileID: 1816137697955418, guid: 664f20845f507e946ae02e861f747984, type: 2}
+    - {fileID: 1070688999492814, guid: f52dc83838fced040b57134c03a753ec, type: 2}
+    - {fileID: 1297375387174256, guid: 9fa53c6533258df4ca7d034f9513a0a9, type: 2}
+    - {fileID: 1869143830175482, guid: 94d753baf17e2e94bbe62955b5c542f1, type: 2}
+    CutInIllust: {fileID: 21300000, guid: 13190baabac13be47a1469e75c86351f, type: 3}
+    IconImage: {fileID: 21300000, guid: 13190baabac13be47a1469e75c86351f, type: 3}
+    StatusData:
+      HP: 9000
+      ATK: 500
+      DEF: 500
+  - CharacterName: "\u9E97\u5948"
+    CharacterID: 3
+    MotionType: 1
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1106811006677620, guid: 1835190c8637542429bcc459c21f610d, type: 2}
+    skills:
+    - {fileID: 1426114037239798, guid: c5824088fb666bc4fb0f6dbc70818191, type: 2}
+    - {fileID: 1681126966445368, guid: a51fb9773c09386498c50501049f24f0, type: 2}
+    - {fileID: 1452199265586200, guid: fe8c25fbce457af48b565fa7b8be9429, type: 2}
+    CutInIllust: {fileID: 21300000, guid: 06a27e7b2d53a5944bdd454bd07c22b7, type: 3}
+    IconImage: {fileID: 21300000, guid: 06a27e7b2d53a5944bdd454bd07c22b7, type: 3}
+    StatusData:
+      HP: 12000
+      ATK: 800
+      DEF: 800
+  - CharacterName: "\u30EC\u30FC\u30F4"
+    CharacterID: 4
+    MotionType: 0
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1355286117932370, guid: 3eab798fa66ddb946a78a79b20f9f6db, type: 2}
+    skills:
+    - {fileID: 1769879282520702, guid: fefa028c9a91b7240a7fb84fb914b974, type: 2}
+    CutInIllust: {fileID: 21300000, guid: 2dfe347795b8cf946bc991448dd0581b, type: 3}
+    IconImage: {fileID: 21300000, guid: 2dfe347795b8cf946bc991448dd0581b, type: 3}
+    StatusData:
+      HP: 15000
+      ATK: 1000
+      DEF: 1000
+  enemyData:
+  - EnemyName: "\u30B6\u30B31"
+    EnemyID: 1
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1315473248018038, guid: 189e9b4a6c0837f46b8261da9d20d02d, type: 2}
+    skills:
+    - {fileID: 1769879282520702, guid: fefa028c9a91b7240a7fb84fb914b974, type: 2}
+    StatusData:
+      HP: 5000
+      ATK: 100
+      DEF: 200
+  - EnemyName: "\u30B6\u30B32"
+    EnemyID: 2
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1143500069019136, guid: b4dd7d847c1de7948a7ac8443048571f, type: 2}
+    skills:
+    - {fileID: 1769879282520702, guid: fefa028c9a91b7240a7fb84fb914b974, type: 2}
+    StatusData:
+      HP: 5500
+      ATK: 150
+      DEF: 250
+  - EnemyName: "\u30B6\u30B33"
+    EnemyID: 3
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1609680704311980, guid: 2e9198d561a097546a3b0135caf505c2, type: 2}
+    skills:
+    - {fileID: 1769879282520702, guid: fefa028c9a91b7240a7fb84fb914b974, type: 2}
+    StatusData:
+      HP: 6000
+      ATK: 200
+      DEF: 300
+  - EnemyName: "\u30AC\u30F3\u30C0\u30E01"
+    EnemyID: 4
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1530550414668614, guid: ed15b9e828103764087f1c0691050060, type: 2}
+    skills:
+    - {fileID: 1769879282520702, guid: fefa028c9a91b7240a7fb84fb914b974, type: 2}
+    StatusData:
+      HP: 12000
+      ATK: 500
+      DEF: 300
+  - EnemyName: "\u30AC\u30F3\u30C0\u30E02"
+    EnemyID: 5
+    characterAnimator: {fileID: 0}
+    Prefab: {fileID: 1530550414668614, guid: ed15b9e828103764087f1c0691050060, type: 2}
+    skills:
+    - {fileID: 1769879282520702, guid: fefa028c9a91b7240a7fb84fb914b974, type: 2}
+    StatusData:
+      HP: 12000
+      ATK: 500
+      DEF: 300
+  otherData:
+    DamageSkin: {fileID: 1975598532225498, guid: 6366fca97baf7244da6469beb8fa197f,
+      type: 2}
+    DamageEffect: {fileID: 1854327142282908, guid: c435027c5496bc44b8cd8a02871793dd,
+      type: 2}

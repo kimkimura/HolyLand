@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2c3e2fd293409448b70e6699a65a249, type: 3}
+  m_Name: mainCharacter
+  m_EditorClassIdentifier: 
+  ListDataCellMap:
+  - Name: mainCharacter
+    SizeOriginal: {x: 4096, y: 4096}
+    ListCell:
+    - Name: face
+      Rectangle:
+        serializedVersion: 2
+        x: 926
+        y: 2382
+        width: 194
+        height: 154
+      Pivot: {x: 97, y: 77}
+    - Name: sword
+      Rectangle:
+        serializedVersion: 2
+        x: 1318
+        y: 4
+        width: 2030
+        height: 1228
+      Pivot: {x: 1015, y: 614}
+    - Name: head
+      Rectangle:
+        serializedVersion: 2
+        x: 2836
+        y: 1234
+        width: 488
+        height: 570
+      Pivot: {x: 244, y: 285}
+    - Name: leftarm
+      Rectangle:
+        serializedVersion: 2
+        x: 2836
+        y: 1806
+        width: 378
+        height: 546
+      Pivot: {x: 189, y: 273}
+    - Name: leftelbow
+      Rectangle:
+        serializedVersion: 2
+        x: 972
+        y: 1958
+        width: 228
+        height: 422
+      Pivot: {x: 114, y: 211}
+    - Name: lefthand
+      Rectangle:
+        serializedVersion: 2
+        x: 3920
+        y: 864
+        width: 164
+        height: 208
+      Pivot: {x: 82, y: 104}
+    - Name: body
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 1312
+        height: 1952
+      Pivot: {x: 656, y: 976}
+    - Name: righthand
+      Rectangle:
+        serializedVersion: 2
+        x: 250
+        y: 2340
+        width: 172
+        height: 180
+      Pivot: {x: 86, y: 90}
+    - Name: rightelbow
+      Rectangle:
+        serializedVersion: 2
+        x: 578
+        y: 1958
+        width: 392
+        height: 308
+      Pivot: {x: 196, y: 154}
+    - Name: rightarm
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 1958
+        width: 244
+        height: 556
+      Pivot: {x: 122, y: 278}
+    - Name: leftleg
+      Rectangle:
+        serializedVersion: 2
+        x: 3350
+        y: 864
+        width: 568
+        height: 880
+      Pivot: {x: 284, y: 440}
+    - Name: rightleg
+      Rectangle:
+        serializedVersion: 2
+        x: 3656
+        y: 1746
+        width: 266
+        height: 960
+      Pivot: {x: 133, y: 480}
+    - Name: leftthigh
+      Rectangle:
+        serializedVersion: 2
+        x: 3326
+        y: 1746
+        width: 328
+        height: 794
+      Pivot: {x: 164, y: 397}
+    - Name: leftfoot
+      Rectangle:
+        serializedVersion: 2
+        x: 578
+        y: 2268
+        width: 346
+        height: 320
+      Pivot: {x: 173, y: 160}
+    - Name: rightfoot
+      Rectangle:
+        serializedVersion: 2
+        x: 2836
+        y: 2354
+        width: 362
+        height: 236
+      Pivot: {x: 181, y: 118}
+    - Name: crotch
+      Rectangle:
+        serializedVersion: 2
+        x: 250
+        y: 1958
+        width: 326
+        height: 380
+      Pivot: {x: 163, y: 190}
+    - Name: rightthigh
+      Rectangle:
+        serializedVersion: 2
+        x: 3350
+        y: 4
+        width: 664
+        height: 858
+      Pivot: {x: 332, y: 429}
+    - Name: mant
+      Rectangle:
+        serializedVersion: 2
+        x: 1318
+        y: 1234
+        width: 1516
+        height: 1282
+      Pivot: {x: 758, y: 641}
