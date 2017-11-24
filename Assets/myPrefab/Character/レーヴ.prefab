@@ -416,7 +416,6 @@ GameObject:
   - component: {fileID: 95502045008195910}
   - component: {fileID: 114213096387340806}
   - component: {fileID: 210466361093504232}
-  - component: {fileID: 114474337799680100}
   - component: {fileID: 114817361204414872}
   - component: {fileID: 114135590989901020}
   m_Layer: 0
@@ -1784,7 +1783,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Length: 1.6822592
+  m_Length: 1.6822593
   m_Child: {fileID: 0}
   m_ChildTransform: {fileID: 4243159911651132}
   m_AttachedIK: {fileID: 114115813517378018}
@@ -2047,32 +2046,6 @@ MonoBehaviour:
   m_Child: {fileID: 0}
   m_ChildTransform: {fileID: 4233118269594786}
   m_AttachedIK: {fileID: 114115813517378018}
---- !u!114 &114474337799680100
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1368816520446984}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8fc50df0fc5b4b968a73718ea584282, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SpriteMeshInstances:
-  - {fileID: 114912412533514988}
-  - {fileID: 114536710315294336}
-  - {fileID: 114269541825971164}
-  - {fileID: 114681265451867438}
-  - {fileID: 114648596334178576}
-  - {fileID: 114952617765542952}
-  - {fileID: 114815112378115296}
-  - {fileID: 114035778537586344}
-  - {fileID: 114205328786026372}
-  - {fileID: 114633037787601060}
-  - {fileID: 114022561396341396}
-  - {fileID: 114324729701976564}
-  - {fileID: 114819329056605730}
-  - {fileID: 114475639884255086}
 --- !u!114 &114475639884255086
 MonoBehaviour:
   m_ObjectHideFlags: 1

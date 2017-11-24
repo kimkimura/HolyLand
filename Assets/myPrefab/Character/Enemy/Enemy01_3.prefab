@@ -287,7 +287,6 @@ GameObject:
   - component: {fileID: 114768398331180500}
   - component: {fileID: 114026722454403542}
   - component: {fileID: 70515209807528890}
-  - component: {fileID: 114406026792004876}
   m_Layer: 0
   m_Name: Enemy01_3
   m_TagString: Enemy
@@ -1088,25 +1087,6 @@ MonoBehaviour:
   m_Child: {fileID: 0}
   m_ChildTransform: {fileID: 0}
   m_AttachedIK: {fileID: 114644601006113866}
---- !u!114 &114406026792004876
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1609680704311980}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8fc50df0fc5b4b968a73718ea584282, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SpriteMeshInstances:
-  - {fileID: 114538857182057038}
-  - {fileID: 114252750904719164}
-  - {fileID: 114434792476555540}
-  - {fileID: 114799939015291986}
-  - {fileID: 114943243746608138}
-  - {fileID: 114952675396057066}
-  - {fileID: 114450381024423410}
 --- !u!114 &114434792476555540
 MonoBehaviour:
   m_ObjectHideFlags: 1
