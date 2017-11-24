@@ -583,7 +583,7 @@ GameObject:
   - component: {fileID: 114500866128527842}
   m_Layer: 0
   m_Name: Maria
-  m_TagString: Character
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -863,7 +863,7 @@ GameObject:
   - component: {fileID: 70182316383875976}
   m_Layer: 0
   m_Name: "\u30DE\u30EA\u30A2"
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1952,13 +1952,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1673121685170312}
-  m_LocalRotation: {x: 0, y: 0, z: -0.12955739, w: -0.99157196}
+  m_LocalRotation: {x: 0, y: 0, z: -0.24023658, w: -0.9707144}
   m_LocalPosition: {x: 3.8330667, y: -0.000002989894, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4823696214303816}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5745.112}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5732.199}
 --- !u!4 &4659302918497934
 Transform:
   m_ObjectHideFlags: 1
@@ -2139,7 +2139,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1958351692304422}
-  m_LocalRotation: {x: 0, y: 0, z: 0.11146027, w: 0.99376893}
+  m_LocalRotation: {x: 0, y: 0, z: 0.018506335, w: 0.9998288}
   m_LocalPosition: {x: 4.0695786, y: 0.00000028312206, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2148,7 +2148,7 @@ Transform:
   - {fileID: 4512353782510596}
   m_Father: {fileID: 4873276696504240}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -707.201}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -717.879}
 --- !u!4 &4824185339310770
 Transform:
   m_ObjectHideFlags: 1
@@ -2183,14 +2183,14 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1623347327977730}
-  m_LocalRotation: {x: 0, y: 0, z: 0.99261385, w: -0.12131712}
+  m_LocalRotation: {x: 0, y: 0, z: 0.9888706, w: -0.14877798}
   m_LocalPosition: {x: 1.6774191, y: -0.7672161, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4823696214303816}
   m_Father: {fileID: 4910649569393572}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 193.93599}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 197.112}
 --- !u!4 &4875750802790142
 Transform:
   m_ObjectHideFlags: 1
@@ -2766,18 +2766,18 @@ MonoBehaviour:
     m_SolverPoses:
     - m_Bone: {fileID: 0}
       m_BoneTransform: {fileID: 4873276696504240}
-      solverPosition: {x: 0.00000037666936, y: -0.0000004619434, z: 0}
-      solverRotation: {x: 0, y: 0, z: 0.99261385, w: -0.12131712}
+      solverPosition: {x: 0.00000036145022, y: -0.0000004739464, z: 0}
+      solverRotation: {x: 0, y: 0, z: 0.9888706, w: -0.14877798}
       defaultLocalRotation: {x: 0, y: 0, z: 0.1319328, w: 0.99125874}
     - m_Bone: {fileID: 0}
       m_BoneTransform: {fileID: 4823696214303816}
-      solverPosition: {x: 4.06958, y: 0, z: 0}
-      solverRotation: {x: 0, y: 0, z: 0.11146027, w: 0.99376893}
+      solverPosition: {x: 4.068512, y: 0.093230024, z: 0}
+      solverRotation: {x: 0, y: 0, z: 0.018506335, w: 0.9998288}
       defaultLocalRotation: {x: 0, y: 0, z: 0.029571801, w: 0.9995627}
     - m_Bone: {fileID: 0}
       m_BoneTransform: {fileID: 4632431299892308}
-      solverPosition: {x: 7.8074093, y: 0.84914255, z: 0}
-      solverRotation: {x: 0, y: 0, z: -0.12955739, w: -0.99157196}
+      solverPosition: {x: 7.8947, y: 0.3227886, z: 0}
+      solverRotation: {x: 0, y: 0, z: -0.24023657, w: -0.97071433}
       defaultLocalRotation: {x: 0, y: 0, z: -0.05265216, w: 0.99861294}
     m_Weight: 1
     m_RestoreDefaultPose: 0
@@ -3017,7 +3017,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Length: 4.06958
+  m_Length: 4.0695796
   m_Child: {fileID: 0}
   m_ChildTransform: {fileID: 4823696214303816}
   m_AttachedIK: {fileID: 114080461119446360}
@@ -3825,7 +3825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Length: 3.8330693
+  m_Length: 3.8330653
   m_Child: {fileID: 0}
   m_ChildTransform: {fileID: 4632431299892308}
   m_AttachedIK: {fileID: 114080461119446360}
@@ -38902,7 +38902,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1277045069
   m_SortingLayer: -1
-  m_SortingOrder: -100
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9e1fcb1cfe66d8344a9c8463f6f37799, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 0.822}
   m_FlipX: 0
