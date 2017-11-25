@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\myScripts\testAnimation.cs">
+    <Files>
+      <File FileName="Assets\SpriteStudio\Script\Script_SpriteStudio_Root.cs" Line="1" Column="1" />
+      <File FileName="Assets\myScripts\testAnimation.cs" Line="16" Column="23" />
+      <File FileName="Assets\myScripts\SStestAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\myScripts\EffectSpawn.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
